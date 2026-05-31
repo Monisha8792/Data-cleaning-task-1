@@ -1,2 +1,18 @@
-# Data-cleaning-task-1
-Task 1 - Data Cleaning and Preprocessing using Mall Customer Segmentation Dataset. Checked for missing values, duplicate records, and data consistency using Microsoft Excel.
+# Data Cleaning and Preprocessing - Task 1
+
+## Dataset
+Mall Customer Segmentation Data
+
+## Tool Used
+Microsoft Excel
+
+## Steps Performed
+- Checked for missing values
+- Checked for duplicate records
+- Verified data consistency
+- Reviewed data types
+
+## Results
+- Missing Values: 0
+- Duplicate Records: 0
+- Dataset is clean and ready for analysis
